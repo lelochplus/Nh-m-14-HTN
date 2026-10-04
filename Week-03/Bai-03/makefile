@@ -1,3 +1,6 @@
+##############################################################################
+# Makefile cho STM32F10x (Standard Peripheral Library) - biên dịch trên Linux
+##############################################################################
 
 # ============== 1. CẤU HÌNH CHIP ==============
 DEVICE_DEFS = -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
